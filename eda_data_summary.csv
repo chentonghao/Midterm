@@ -1,4 +1,0 @@
-Stage,Samples,Features,Description
-Raw Data,96478,15,Original dataset (delivered orders only)
-After Cleaning,96478,15,"Dropped IDs, timestamps, and irrelevant cols"
-After Preprocessing,96478,20,Numeric scaled + categorical one-hot + cyclic sin/cos
